@@ -1,0 +1,15 @@
+.container-menu-bar > ul{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.container-menu-bar > ul > li{
+  margin-right: 30px;
+  list-style: none;
+  padding: 10px;
+}
+
+.container-menu-bar > ul > li:hover{
+  color: aquamarine;
+}
